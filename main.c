@@ -23,7 +23,7 @@ void joo(){
 }
 
 void tablawy(){
-
+  printf ("Abdallah Nasser");
 }
 
 void essam(){
