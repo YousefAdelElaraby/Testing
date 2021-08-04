@@ -20,7 +20,8 @@ void shihab(){
 }
 
 void joo(){
-
+  
+  printf("hello world")
 }
 
 void tablawy(){
