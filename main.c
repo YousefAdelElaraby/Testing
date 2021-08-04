@@ -15,6 +15,7 @@ while(1){
 
 
 void shihab(){
+  printf("shehab ahmed");
 
 }
 
@@ -24,9 +25,11 @@ void joo(){
 }
 
 void tablawy(){
-
+  printf ("Abdallah Nasser");
 }
 
-void essam(){
+void essam()
+{
+  printf("esam mohamed");
 
 }
